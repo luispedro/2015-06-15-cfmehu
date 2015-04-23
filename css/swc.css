@@ -270,6 +270,19 @@ div.banner a img {
 	padding: 20px 25px;
 }
 
+/* sponsors logos. */
+div.sponsor-logos {
+	background-color: #FFFFFF;
+	width: 100%;
+	margin: 0px;
+	padding: 0;
+}
+
+/* Padding around image in sponsor logos. */
+div.sponsor-logos a img {
+	padding: 20px 25px;
+}
+
 /* Explanatory call-out boxes. */
 div.box {
     width: 54em;
